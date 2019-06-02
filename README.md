@@ -15,16 +15,26 @@ It shows how to use swift including:
 - ImagePicker controller
 - Persist data
 - Push & model view controller
+- Gesture recorgnizer
 
 ## Swift
 The follwoing techniques are used in swift code
-- Implicit unrapped option
-- downcast
+- Implicit unrapped option: !
+- downcast: as?
 - NScoder & model
-- guard
-- switch
-- identity operator
+- guard: guard let ..... else {}
+- switch: switch
+- identity operator: ===
 - many other swift language constructs
+- failable initializer: init?(_:)
+- forced type cast operator: as!
+- half open range operator: ...<
+
+## Design paterns
+- target-action
+- delegate
+- observer: didSet{}
+
 
 # Screen shots
 ## Main
