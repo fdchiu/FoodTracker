@@ -14,7 +14,7 @@ It shows how to use swift to:
 - Auto layout
 - Image assets
 - ImagePicker controller
-##Swift
+## Swift
 The follwoing techniques are used in swift code
 - Implicit unrapped option
 - downcast
@@ -23,19 +23,19 @@ The follwoing techniques are used in swift code
 - switch
 
 
-#Screen shots
-##Main
+# Screen shots
+## Main
 ![Imgur Image](https://github.com/fdchiu/FoodTracker/blob/master/FoodTracker_main.png)
 
-##Edit
+## Edit
 ![Imgur Image](https://github.com/fdchiu/FoodTracker/blob/master/FoodTracker_edit.png)
 
-##Add
+## Add
 ![Imgur Image](https://github.com/fdchiu/FoodTracker/blob/master/FoodTracker_add.png)
 
-#Storyboard - UI design
-![Imgur Image](https://github.com/fdchiu/FoodTracker/blob/master/FoodTrackerStoryboard.png)
+# Storyboard - UI design
+![Imgur Image](https://github.com/fdchiu/FoodTracker/blob/master/FoodTrackerStoryBoard.png)
 
-#Contact
+# Contact
 David Chiu
 fdchiu@gmail.com
