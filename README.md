@@ -1,7 +1,6 @@
 # FoodTracker
 A swift tutorial app
-A swift tutorial app
-It shows how to use swift to:
+It shows how to use swift including:
 - Multiple view controller
 - Navigation between controller
 - Passing data between controllers
