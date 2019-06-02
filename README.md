@@ -13,6 +13,9 @@ It shows how to use swift including:
 - Auto layout
 - Image assets
 - ImagePicker controller
+- Persist data
+- Push & model view controller
+
 ## Swift
 The follwoing techniques are used in swift code
 - Implicit unrapped option
@@ -20,7 +23,8 @@ The follwoing techniques are used in swift code
 - NScoder & model
 - guard
 - switch
-
+- identity operator
+- many other swift language constructs
 
 # Screen shots
 ## Main
